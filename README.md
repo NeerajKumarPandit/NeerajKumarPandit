@@ -1,9 +1,37 @@
 <h1 align="center">Hi 👋, I'm NeerajKumar Pandit</h1>
-<h3 align="center">A passionate engineer from India</h3>
+<h3 align="center">Educator | Networking • Cybersecurity • System Administration</h3>
 
-- 👨‍💻 All of my projects are available at [future](future)
+<p align="center">
+I simplify complex technologies and share practical knowledge on networking, security, and system administration.<br>
+Building in public 🚀 — documenting my learning journey to help others grow.
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👨‍🏫 What I Do
+- 📚 Create structured notes and learning resources on modern technologies  
+- 🔐 Teach concepts with real-world scenarios  
+- 🌐 Share networking and system administration knowledge  
+- ⚙️ Focus on hands-on learning
+
+---
+
+### 🚀 Current Focus
+- Palo Alto Firewall 🔥  
+- Linux System Administration    
+
+---
+
+### 📂 Projects & Learning Resources
+
+- 🔥 [Palo Alto Firewall Notes](https://github.com/NeerajKumarPandit/PaloAlto)  
+  Practical notes with real-world firewall configuration and security use cases.
+
+---
+
+### 🤝 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/neerajkumar-pandit-106971223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neerajkumar-pandit-106971223/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neerajkumar-pandit-106971223/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NeerajKumar Pandit LinkedIn" height="30" width="40" />
+</a>
 </p>
