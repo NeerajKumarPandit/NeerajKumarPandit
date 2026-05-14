@@ -1,30 +1,48 @@
 <h1 align="center">Hi 👋, I'm NeerajKumar Pandit</h1>
-<h3 align="center">Educator | Networking • System Administration • Cloud • </h3>
+<h3 align="center">DevOps Educator | Linux • Cloud • Automation • Infrastructure</h3>
 
 <p align="center">
-I simplify complex technologies and share practical knowledge on networking, Cloud, and system administration.<br>
-Building in public 🚀 — documenting my learning journey to help others grow.
+I simplify DevOps and infrastructure concepts through practical, real-world learning.<br>
+Helping students and engineers understand Linux, cloud, automation, networking, and modern infrastructure technologies 🚀
 </p>
 
 ---
 
 ### 👨‍🏫 What I Do
-- 📚 Create structured notes and learning resources on modern technologies  
-- 🔐 Teach concepts with real-world scenarios  
-- 🌐 Share networking and system administration knowledge  
-- ⚙️ Focus on hands-on learning
+- 📚 Create beginner-friendly DevOps learning resources  
+- 🐧 Teach Linux and system administration with hands-on labs  
+- ☁️ Share cloud and infrastructure concepts in simple language  
+- ⚙️ Explain automation, CI/CD, containers, and networking practically  
+- 🔐 Bridge the gap between theory and real-world engineering
 
 ---
 
 ### 🚀 Current Focus
-- Linux System Administration    
+- Linux System Administration  
+- DevOps Engineering  
+- Cloud Infrastructure  
+- Automation & Infrastructure as Code  
 
 ---
 
 ### 📂 Projects & Learning Resources
 
-- 🔥 [Palo Alto Firewall Notes](https://github.com/NeerajKumarPandit/PaloAlto)  
-  Practical notes with real-world firewall configuration and security use cases.
+- 🔥 [RHCSA 9 EXAM PAPER](https://github.com/NeerajKumarPandit/rhcsa9.git)
+
+- 🔥 [RHCSA 10 EXAM PAPER](https://github.com/NeerajKumarPandit/rhcsa10.git)
+  
+
+---
+
+### 🛠️ Technologies & Topics
+- Linux  
+- Docker  
+- Kubernetes  
+- AWS & Cloud Computing  
+- Networking  
+- Git & GitHub  
+- CI/CD Pipelines  
+- Bash & Python Automation  
 
 ---
 
