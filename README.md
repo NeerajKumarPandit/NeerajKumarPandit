@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm NeerajKumar Pandit</h1>
-<h3 align="center">Educator | Networking • Cybersecurity • System Administration</h3>
+<h3 align="center">Educator | Networking • System Administration • Cloud • </h3>
 
 <p align="center">
-I simplify complex technologies and share practical knowledge on networking, security, and system administration.<br>
+I simplify complex technologies and share practical knowledge on networking, Cloud, and system administration.<br>
 Building in public 🚀 — documenting my learning journey to help others grow.
 </p>
 
@@ -17,7 +17,6 @@ Building in public 🚀 — documenting my learning journey to help others grow.
 ---
 
 ### 🚀 Current Focus
-- Palo Alto Firewall 🔥  
 - Linux System Administration    
 
 ---
