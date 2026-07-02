@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm NeerajKumar Pandit</h1>
-<h3 align="center">DevOps Educator | Linux • Cloud • Automation • Infrastructure</h3>
+<h3 align="center">DevOps Enthusiast| Linux • Cloud • Automation • Infrastructure</h3>
 
 <p align="center">
-I simplify DevOps and infrastructure concepts through practical, real-world learning.<br>
-Helping students and engineers understand Linux, cloud, automation, networking, and modern infrastructure technologies 🚀
+I Practice DevOps and infrastructure concepts through practical, real-world learning.<br>
+Helping friends understand Linux, cloud, automation, networking, and modern infrastructure technologies 🚀
 </p>
 
 ---
